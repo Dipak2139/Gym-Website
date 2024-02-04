@@ -1,0 +1,113 @@
+
+/* css reset */
+body {
+    margin: 0;
+    padding: 0;
+    background: url("img/b .jpg");
+    color: white;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+  }
+  
+  .left {
+    /* border: 2px solid red; */
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+    top: 10px;
+  }
+  
+  .left img {
+  
+   width: 112px;
+  filter: invert(100%);
+  border: 2px solid black;
+  border-radius: 77px;
+  box-shadow: 0px 0px 24px #a49226;
+  }
+  
+  .left div {
+   line-height: 20px;
+  text-align: center;
+  font-size: 21px;
+  }
+  
+  .mid {
+    display: block;
+    width: 40%;
+    margin: 24px auto;
+    /* border: 2px solid green; */
+  }
+  
+  .right {
+    position: absolute;
+    right: 10px;
+    top: 35px;
+    /* border: 2px solid blue; */
+    display: inline-block;
+  }
+  
+  .navbar {
+    display: inline-block;
+  }
+  .navbar li {
+    display: inline-block;
+  }
+  
+  .navbar li a {
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 20px 15px;
+  }
+  
+  .navbar li a:hover,
+  .navbar li a.active {
+    text-decoration: underline;
+    color: #99e4c6;
+  }
+  
+  .btn {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold;
+    margin: 0 5px;
+    color: white;
+    background-color: black;
+    padding: 5px 10px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .btn:hover {
+    background-color: rgba(128, 128, 128, 0.701);
+  }
+  
+  .container {
+   /* border: 2px solid greenyellow; */
+  margin: 62px 75px;
+  padding: 67px;
+  width: 32%;
+  border-radius: 28px;;
+  }
+  
+  .form-group input {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 17px;
+    text-align: center;
+    display: block;
+    width: 300px;
+    padding: 4px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 13px auto;
+  }
+  .container h1 {
+    text-align: center;
+  }
+  
+  .container button {
+    display: block;
+    width: 80%;
+    margin: 15px auto;
+  } -->
+  
